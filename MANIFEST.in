@@ -1,0 +1,12 @@
+include history.md
+include LICENSE
+include readme.md
+include setup.py
+
+include examples/demo.fasta
+include examples/demo.fastq
+include examples/demo.m8
+include examples/demo.sam
+
+include doc/UserManual.md
+
